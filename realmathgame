@@ -1,0 +1,3 @@
+from math_quiz import TreeA
+TreeA.Q1()
+TreeA.Q2()
